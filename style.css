@@ -1,0 +1,32 @@
+body {
+    font-family: trebuchet ms, sans-serif;
+    background-attachment: scroll;
+    background-size: cover;
+
+    margin: 5%; 
+    color: rgb(255, 255, 255);
+}
+
+.projeto{
+    padding: 10px;
+    border: 2px solid rgba(243, 243, 243, 0.521);
+    background-color: rgba(205, 179, 229, 0.116);
+}
+
+.dvs{
+    height: inherit;
+    width: 200px;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-bottom: 25px;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.projeto:hover{
+    border: 2px solid rgba(185, 132, 255, 0.521);
+    background-color: rgba(153, 95, 207, 0.116);
+}
